@@ -1,6 +1,6 @@
 # AWS Networking Sketches
 
-In trying to pull toghether a talk on AWS networking for an internal presentation at work I made a bunch of sketches.
+In trying to pull together a talk on AWS networking for an internal presentation at work I made a bunch of sketches.
 
 These are sketches - not diagrams - as they're not complete ideas and (as someone on the call quite rightly commented, all the connectors are not labelled! :-)). 
 
