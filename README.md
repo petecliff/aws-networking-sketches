@@ -26,3 +26,4 @@ Foundations of AWS Global Cloud Infrastructure - https://www.youtube.com/watch?v
 The right AWS network architecture for the right reason - https://www.youtube.com/watch?v=Ot1kcQfUIdg
 
 AWS Network Connectivity Options - digital course - https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-aws-network-connectivity-options/
+cd 
